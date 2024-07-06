@@ -1,0 +1,21 @@
+.Atext{
+  background-color: rgb(20, 18, 16);
+  
+}
+
+
+.message.Admin{
+  background-color: rgb(118, 103, 203);
+}
+.App2{
+  background-color: rgb(177, 195, 195);
+  padding: 10px;
+  border-radius: 8px;
+}
+.App2 h1{
+    font-size: 1.6rem;
+    color: rgb(66, 66, 159);
+}
+.App2 h2{
+      font-size: 1.3rem;
+}

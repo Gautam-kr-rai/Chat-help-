@@ -1,0 +1,19 @@
+
+body {
+   background-color: grey;
+   display: flex ;
+   justify-content: center;
+   align-items: center;
+ 
+}
+
+.rgstr{
+  background-color: rgb(226, 236, 233);
+  padding: 10px;
+  border-radius: 8px;
+  
+}
+.btn{
+  margin: 2px;
+  width: 100px;
+}
